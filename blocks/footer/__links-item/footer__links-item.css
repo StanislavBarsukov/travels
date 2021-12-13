@@ -1,0 +1,14 @@
+.footer__links-item {
+    padding-bottom: 32px;
+    transition: opacity 1.5s ease-in-out;
+}
+.footer__links-item:last-of-type {
+    padding-bottom: 0;
+    padding-right: 0;
+}
+@media screen and (min-width: 768px) {
+    .footer__links-item {
+        padding-bottom: 0;
+        padding-right: 18px;
+    }
+}

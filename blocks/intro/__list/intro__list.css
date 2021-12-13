@@ -1,0 +1,13 @@
+.intro__list {
+    color: #FFFFFF;
+    list-style-type: none;
+    padding-top: 34px;
+    box-sizing: border-box;
+    margin-block: 0;
+    padding-inline: 0;
+}
+@media screen and (min-width:768px) {
+    .intro__list {
+        padding-top: 33px;
+    }
+}

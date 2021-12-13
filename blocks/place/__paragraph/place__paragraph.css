@@ -1,0 +1,10 @@
+.place__paragraph {
+    margin: 0 16px;
+    justify-self: start;
+    grid-area: text;
+}
+@media screen and (min-width: 768px) {
+    .place__paragraph {
+        margin: 0;
+    }
+  }
