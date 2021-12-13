@@ -7,4 +7,4 @@
 * Nested БЭМ
 * Figma
 
-* [Ссылка на сайт  в pages] https://stanislavbarsukov.github.io/russian-travel./
+* [Ссылка на сайт  в pages] https://stanislavbarsukov.github.io/travels/
